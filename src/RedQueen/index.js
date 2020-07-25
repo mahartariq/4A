@@ -11,7 +11,7 @@ export const RedQueenRace = () => {
     </div>
   </div>
 
-  <div className="scenery" id="foreground1">
+  <div id="foreground1">
     <img id="palm3" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm3_small.png" srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm3.png 2x"  alt="Alice and the Red Queen running to stay in place."/>
   </div>
   <div className="scenery" id="foreground2">    
