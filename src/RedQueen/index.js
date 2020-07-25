@@ -27,10 +27,10 @@ export const RedQueenRace = () => {
     <img id="palm1" src={"https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm1_small.png"} srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm1.png 2x" alt="eta"/>
   </div>
   <div className="scenery" id="background2">
-    <img id="r_pawn" src={"https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_pawn_small.png"} srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_pawn.png 2x" alt/>
+    <img id="r_pawn" alt="" src={"https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_pawn_small.png"} srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_pawn.png 2x"/>
 
-    <img id="r_knight" src={"https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_knight_small.png"} srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_knight.png 2x" alt/>
-    <img id="palm2" alt src={"https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm2_small.png"} srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm2.png 2x"/>
+    <img id="r_knight" alt="" src={"https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_knight_small.png"} srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/r_knight.png 2x" />
+    <img id="palm2" alt="" src={"https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm2_small.png"} srcset="https://s3-us-west-2.amazonaws.com/s.cdpn.io/641/palm2.png 2x"/>
   </div>
 </div>
         </div>
